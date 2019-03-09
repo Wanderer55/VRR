@@ -1,0 +1,706 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-19 19:17+0300\n"
+"PO-Revision-Date: 2018-06-19 19:18+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/class-admin.php:193
+msgid "More time interval"
+msgstr ""
+
+#: admin/class-admin.php:230
+msgid "Enable"
+msgstr ""
+
+#: admin/class-admin.php:327
+msgid "Main"
+msgstr ""
+
+#: admin/class-admin.php:330
+msgid "Work Days & Form"
+msgstr ""
+
+#: admin/class-admin.php:333
+msgid "SMS"
+msgstr ""
+
+#: admin/class-admin.php:336
+msgid "Layout Colors"
+msgstr ""
+
+#: admin/class-admin.php:373
+msgid "Upload image"
+msgstr ""
+
+#: admin/class-admin.php:374
+msgid "Remove image"
+msgstr ""
+
+#: admin/class-admin.php:441
+msgid "Title"
+msgstr ""
+
+#: admin/class-admin.php:442 public/class-public.php:1896
+msgid "Table Number"
+msgstr ""
+
+#: admin/class-admin.php:443 public/class-public.php:1904
+msgid "Date"
+msgstr ""
+
+#: admin/class-admin.php:444 public/class-public.php:1912
+msgid "Time"
+msgstr ""
+
+#: admin/class-admin.php:445 public/class-public.php:1089
+#: public/class-public.php:1336 public/class-public.php:1771
+#: public/class-public.php:1966
+msgid "Name"
+msgstr ""
+
+#: admin/class-admin.php:446 public/class-public.php:1097
+#: public/class-public.php:1974
+msgid "Phone Number"
+msgstr ""
+
+#: admin/class-admin.php:676 admin/class-admin.php:678
+msgid "Visual Restaurant Reservation"
+msgstr ""
+
+#: admin/class-admin.php:734 admin/class-admin.php:735
+msgid "Table Reservation"
+msgstr ""
+
+#: admin/class-admin.php:743 admin/class-admin.php:744
+msgid "Set Layout"
+msgstr ""
+
+#: admin/class-admin.php:752 admin/class-admin.php:753
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:765
+msgid "Number of days to book ahead"
+msgstr ""
+
+#: admin/class-admin.php:768
+msgid "day(s)"
+msgstr ""
+
+#: admin/class-admin.php:772
+msgid "Hours to book table after reservation"
+msgstr ""
+
+#: admin/class-admin.php:775 admin/class-admin.php:782
+msgid "hour(s)"
+msgstr ""
+
+#: admin/class-admin.php:779
+msgid "Hours to book table before reservation"
+msgstr ""
+
+#: admin/class-admin.php:786
+msgid "Let visitors to pick amount of people for reserved table"
+msgstr ""
+
+#: admin/class-admin.php:793
+msgid "Show E-mail field in the form"
+msgstr ""
+
+#: admin/class-admin.php:800
+msgid "Show Table seats on layout"
+msgstr ""
+
+#: admin/class-admin.php:807
+msgid "Show Table max amount of persons on layout"
+msgstr ""
+
+#: admin/class-admin.php:814
+msgid "Show the selected time up to the table reservation"
+msgstr ""
+
+#: admin/class-admin.php:821
+msgid "Plugin layouts types"
+msgstr ""
+
+#: admin/class-admin.php:826
+msgid "Classic Layout"
+msgstr ""
+
+#: admin/class-admin.php:828
+msgid ""
+"first you pick table and then in popup you need to pick date, time, etc."
+msgstr ""
+
+#: admin/class-admin.php:831
+msgid "Smart Layout"
+msgstr ""
+
+#: admin/class-admin.php:833
+msgid ""
+"first you pick the date then you need to pick time and the table witch "
+"available on this date and time. Then in popup you need to fill name, phone, "
+"etc."
+msgstr ""
+
+#: admin/class-admin.php:836
+msgid "Simple Layout"
+msgstr ""
+
+#: admin/class-admin.php:838
+msgid ""
+"in this layout disabled option to pick the table. All you need is pick the "
+"date, time and fill the name, phone, etc."
+msgstr ""
+
+#: admin/class-admin.php:844
+msgid "Work days"
+msgstr ""
+
+#: admin/class-admin.php:848
+msgid ""
+"setting up work of each day of the week for your restaurant(work time and "
+"work days)"
+msgstr ""
+
+#: admin/class-admin.php:851
+msgid "Monday"
+msgstr ""
+
+#: admin/class-admin.php:865
+msgid "Tuesday"
+msgstr ""
+
+#: admin/class-admin.php:879
+msgid "Wednesday"
+msgstr ""
+
+#: admin/class-admin.php:893
+msgid "Thursday"
+msgstr ""
+
+#: admin/class-admin.php:907
+msgid "Friday"
+msgstr ""
+
+#: admin/class-admin.php:921
+msgid "Saturday"
+msgstr ""
+
+#: admin/class-admin.php:935
+msgid "Sunday"
+msgstr ""
+
+#: admin/class-admin.php:951
+msgid "Reservation Form message"
+msgstr ""
+
+#: admin/class-admin.php:954
+msgid "Appears after \"Book Now\" button"
+msgstr ""
+
+#: admin/class-admin.php:958
+msgid "Output Form Confirmation checkbox"
+msgstr ""
+
+#: admin/class-admin.php:961
+msgid "Confirm usage of personal data checkbox"
+msgstr ""
+
+#: admin/class-admin.php:965
+msgid "Form Confirmation text"
+msgstr ""
+
+#: admin/class-admin.php:968
+msgid "Outputs if Form Confirmation checkbox is checked"
+msgstr ""
+
+#: admin/class-admin.php:972
+msgid "Form success \"Thank You\" message"
+msgstr ""
+
+#: admin/class-admin.php:975
+msgid "Leave empty to use default"
+msgstr ""
+
+#: admin/class-admin.php:979
+msgid "E-mail to send tables reservation notifications"
+msgstr ""
+
+#: admin/class-admin.php:980
+msgid "if leave empty, will send to admin email settings field"
+msgstr ""
+
+#: admin/class-admin.php:986
+msgid "Send SMS notification on table reservation"
+msgstr ""
+
+#: admin/class-admin.php:989
+msgid "send SMS through Nexmo service. First you need to setup Nexmo data. "
+msgstr ""
+
+#: admin/class-admin.php:993
+msgid "Nexmo SMS key"
+msgstr ""
+
+#: admin/class-admin.php:1000
+msgid "Nexmo SMS secret"
+msgstr ""
+
+#: admin/class-admin.php:1007
+msgid "Phone number to send SMS"
+msgstr ""
+
+#: admin/class-admin.php:1008
+msgid ""
+"The number you are sending the SMS to in E.164 format. For example "
+"447700900000"
+msgstr ""
+
+#: admin/class-admin.php:1014
+msgid "Colors Main"
+msgstr ""
+
+#: admin/class-admin.php:1018 admin/class-admin.php:1055
+#: admin/class-admin.php:1112
+msgid "All settings of color applies only on frontend layout of the shortcode"
+msgstr ""
+
+#: admin/class-admin.php:1021
+msgid "Main layout color"
+msgstr ""
+
+#: admin/class-admin.php:1025
+msgid "Tables background color"
+msgstr ""
+
+#: admin/class-admin.php:1029
+msgid "Seats background color"
+msgstr ""
+
+#: admin/class-admin.php:1033
+msgid "Max seats circle background color"
+msgstr ""
+
+#: admin/class-admin.php:1037
+msgid "Max seats circle text color"
+msgstr ""
+
+#: admin/class-admin.php:1041
+msgid "Table Number background color"
+msgstr ""
+
+#: admin/class-admin.php:1045
+msgid "Table Number text color"
+msgstr ""
+
+#: admin/class-admin.php:1051
+msgid "Colors Datepicker"
+msgstr ""
+
+#: admin/class-admin.php:1058
+msgid "Datepicker text color"
+msgstr ""
+
+#: admin/class-admin.php:1062
+msgid "Datepicker dates background color"
+msgstr ""
+
+#: admin/class-admin.php:1066
+msgid "Datepicker disabled dates background color"
+msgstr ""
+
+#: admin/class-admin.php:1070
+msgid "Datepicker active dates background color"
+msgstr ""
+
+#: admin/class-admin.php:1074
+msgid "Datepicker dates text color"
+msgstr ""
+
+#: admin/class-admin.php:1078
+msgid "Datepicker disabled dates text color"
+msgstr ""
+
+#: admin/class-admin.php:1082
+msgid "Datepicker active dates text color"
+msgstr ""
+
+#: admin/class-admin.php:1086
+msgid "Datepicker arrow color"
+msgstr ""
+
+#: admin/class-admin.php:1090
+msgid "Datepicker arrow background color on hover"
+msgstr ""
+
+#: admin/class-admin.php:1094
+msgid "Datepicker background arrow color"
+msgstr ""
+
+#: admin/class-admin.php:1098
+msgid "Datepicker disabled arrow color"
+msgstr ""
+
+#: admin/class-admin.php:1102
+msgid "Datepicker disabled background arrow color"
+msgstr ""
+
+#: admin/class-admin.php:1108
+msgid "Colors Form"
+msgstr ""
+
+#: admin/class-admin.php:1115
+msgid "Button \"Book Now\" background color"
+msgstr ""
+
+#: admin/class-admin.php:1119
+msgid "Button \"Book Now\" text color"
+msgstr ""
+
+#: admin/class-admin.php:1123
+msgid "Form background color"
+msgstr ""
+
+#: admin/class-admin.php:1127
+msgid "Booking form Big titles color"
+msgstr ""
+
+#: admin/class-admin.php:1131
+msgid "Big titles color"
+msgstr ""
+
+#: admin/class-admin.php:1135
+msgid "Small titles color"
+msgstr ""
+
+#: admin/class-admin.php:1139
+msgid "Descriptions text color"
+msgstr ""
+
+#: admin/class-admin.php:1144
+msgid "Inputs and selects background color"
+msgstr ""
+
+#: admin/class-admin.php:1148
+msgid "Inputs and selects text color"
+msgstr ""
+
+#: admin/class-admin.php:1152
+msgid "Error messages background color"
+msgstr ""
+
+#: admin/class-admin.php:1156
+msgid "Error messages text color"
+msgstr ""
+
+#: admin/class-admin.php:1160
+msgid "Info messages background color"
+msgstr ""
+
+#: admin/class-admin.php:1164
+msgid "Info messages and confirm text color"
+msgstr ""
+
+#: admin/class-admin.php:1181 admin/class-admin.php:1210
+msgid "Submit"
+msgstr ""
+
+#: admin/class-admin.php:1195
+msgid "Render"
+msgstr ""
+
+#: admin/partials/view_layout.php:12
+msgid "Background Canvas"
+msgstr ""
+
+#: admin/partials/view_layout.php:18
+msgid "Background Table"
+msgstr ""
+
+#: admin/partials/view_layout.php:24
+msgid "Background Seat"
+msgstr ""
+
+#: admin/partials/view_layout.php:46
+msgid "Tables"
+msgstr ""
+
+#: admin/partials/view_layout.php:116
+msgid "Layout"
+msgstr ""
+
+#: admin/partials/view_layout.php:121
+msgid "Tables Size"
+msgstr ""
+
+#: admin/partials/view_layout.php:131
+msgid "Default: Medium"
+msgstr ""
+
+#: admin/partials/view_layout.php:136
+msgid "Canvas Width"
+msgstr ""
+
+#: admin/partials/view_layout.php:139 admin/partials/view_layout.php:142
+#: admin/partials/view_layout.php:150 admin/partials/view_layout.php:153
+msgid "min"
+msgstr ""
+
+#: admin/partials/view_layout.php:139 admin/partials/view_layout.php:142
+#: admin/partials/view_layout.php:150 admin/partials/view_layout.php:153
+msgid "max"
+msgstr ""
+
+#: admin/partials/view_layout.php:147
+msgid "Canvas Height"
+msgstr ""
+
+#: admin/partials/view_layout.php:255
+msgid "Shortcode:"
+msgstr ""
+
+#: admin/partials/view_layout.php:261
+msgid "Use this shortcode to output layout on your page."
+msgstr ""
+
+#: frontend/class-frontend.php:49 frontend/class-frontend.php:88
+msgid "Error. Phone number is wrong"
+msgstr ""
+
+#: frontend/class-frontend.php:59 frontend/class-frontend.php:98
+msgid "Error. E-mail is wrong"
+msgstr ""
+
+#: frontend/class-frontend.php:70 frontend/class-frontend.php:105
+msgid "Error. One or more fields is empty"
+msgstr ""
+
+#: frontend/class-frontend.php:118
+msgid "Error. Please, confirm that you give rights to use your personal data"
+msgstr ""
+
+#: frontend/class-frontend.php:156
+msgid "Error. On this date and time table already booked"
+msgstr ""
+
+#: frontend/class-frontend.php:329
+msgid "Not added"
+msgstr ""
+
+#: frontend/class-frontend.php:338
+msgid "Security error"
+msgstr ""
+
+#: public/class-public.php:360
+msgid "Please, check the checkbox"
+msgstr ""
+
+#: public/class-public.php:821 public/class-public.php:1283
+#: public/class-public.php:1719
+msgid "Choose the Date"
+msgstr ""
+
+#: public/class-public.php:823 public/class-public.php:1286
+#: public/class-public.php:1722
+msgid "Please, pick the date"
+msgstr ""
+
+#: public/class-public.php:829 public/class-public.php:1293
+#: public/class-public.php:1728
+msgid "Select the start time"
+msgstr ""
+
+#: public/class-public.php:831 public/class-public.php:845
+#: public/class-public.php:1295 public/class-public.php:1308
+#: public/class-public.php:1730 public/class-public.php:1743
+msgid "Choose time"
+msgstr ""
+
+#: public/class-public.php:836 public/class-public.php:1300
+#: public/class-public.php:1735
+msgid "Please, chose time"
+msgstr ""
+
+#: public/class-public.php:843 public/class-public.php:1306
+#: public/class-public.php:1741
+msgid "Select the end time"
+msgstr ""
+
+#: public/class-public.php:850 public/class-public.php:1313
+#: public/class-public.php:1748
+msgid "Invalid end time"
+msgstr ""
+
+#: public/class-public.php:1051 public/class-public.php:1146
+#: public/class-public.php:1577
+msgid "Thank You!"
+msgstr ""
+
+#: public/class-public.php:1051 public/class-public.php:1146
+#: public/class-public.php:1577
+msgid "We will call you back soon."
+msgstr ""
+
+#: public/class-public.php:1062 public/class-public.php:1725
+msgid "Book Table"
+msgstr ""
+
+#: public/class-public.php:1071 public/class-public.php:1320
+#: public/class-public.php:1755
+msgid "People amount"
+msgstr ""
+
+#: public/class-public.php:1073 public/class-public.php:1322
+#: public/class-public.php:1757
+msgid "for this table maximum amount is:"
+msgstr ""
+
+#: public/class-public.php:1076 public/class-public.php:1325
+#: public/class-public.php:1760
+msgid "Select amount of people"
+msgstr ""
+
+#: public/class-public.php:1081 public/class-public.php:1092
+#: public/class-public.php:1100 public/class-public.php:1110
+#: public/class-public.php:1330 public/class-public.php:1339
+#: public/class-public.php:1347 public/class-public.php:1357
+#: public/class-public.php:1765 public/class-public.php:1774
+#: public/class-public.php:1782 public/class-public.php:1792
+msgid "Please, fill the field"
+msgstr ""
+
+#: public/class-public.php:1101 public/class-public.php:1348
+#: public/class-public.php:1783
+msgid "Please, fill correct phone number"
+msgstr ""
+
+#: public/class-public.php:1107 public/class-public.php:1354
+#: public/class-public.php:1789 public/class-public.php:1982
+msgid "E-mail"
+msgstr ""
+
+#: public/class-public.php:1111 public/class-public.php:1358
+#: public/class-public.php:1793
+msgid "Please, fill correct email"
+msgstr ""
+
+#: public/class-public.php:1120 public/class-public.php:1368
+#: public/class-public.php:1803
+msgid "Book Now"
+msgstr ""
+
+#: public/class-public.php:1837 public/class-public.php:1838
+msgid "Table Reservations"
+msgstr ""
+
+#: public/class-public.php:1839
+msgid "Add Table Reservation"
+msgstr ""
+
+#: public/class-public.php:1840
+msgid "Add New Table Reservation"
+msgstr ""
+
+#: public/class-public.php:1841
+msgid "Edit"
+msgstr ""
+
+#: public/class-public.php:1842
+msgid "Edit Reservation"
+msgstr ""
+
+#: public/class-public.php:1843
+msgid "New Reservation"
+msgstr ""
+
+#: public/class-public.php:1844 public/class-public.php:1845
+msgid "View Reservation"
+msgstr ""
+
+#: public/class-public.php:1846
+msgid "Search Reservations"
+msgstr ""
+
+#: public/class-public.php:1847
+msgid "No Reservations found"
+msgstr ""
+
+#: public/class-public.php:1848
+msgid "No Reservations found in trash"
+msgstr ""
+
+#: public/class-public.php:1849
+msgid "Parent Reservations"
+msgstr ""
+
+#: public/class-public.php:1851
+msgid "This is where Table Reservations are stored."
+msgstr ""
+
+#: public/class-public.php:1875
+msgid "Table Reservation Details"
+msgstr ""
+
+#: public/class-public.php:1930
+msgid "Time to reserve to"
+msgstr ""
+
+#: public/class-public.php:1948
+msgid "Table Seats"
+msgstr ""
+
+#: public/class-public.php:1957
+msgid "People Amount"
+msgstr ""
+
+#: public/class-public.php:2029 public/class-public.php:2066
+#: public/class-public.php:2077 public/class-public.php:2101
+msgid "Requested"
+msgstr ""
+
+#: public/class-public.php:2033
+#, php-format
+msgid "Requested <span class=\"count\">(%s)</span>"
+msgid_plural "Requested <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/class-public.php:2037 public/class-public.php:2070
+#: public/class-public.php:2078 public/class-public.php:2102
+msgid "Reserved"
+msgstr ""
+
+#: public/class-public.php:2041
+#, php-format
+msgid "Reserved <span class=\"count\">(%s)</span>"
+msgid_plural "Reserved <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/class-public.php:2045 public/class-public.php:2074
+#: public/class-public.php:2079 public/class-public.php:2103
+msgid "Canceled"
+msgstr ""
+
+#: public/class-public.php:2049
+#, php-format
+msgid "Canceled <span class=\"count\">(%s)</span>"
+msgid_plural "Canceled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
